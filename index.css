@@ -24,8 +24,9 @@
 
 .subbanner{
 	position:absolute;
-	top:200px;
-    margin-left: auto;
+	background-color:#575757;
+	color:#ffffff;
+	top: 190px;
     margin-right: auto;
 	margin-left: auto;
 	left: 0;
@@ -33,3 +34,12 @@
 	font-family: 'Open Sans', sans-serif; font-weight: 400;
 } 
 
+.text{
+	position:absolute;
+	background-color: #999999;
+	top:311px;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	font-family: "Open Sans", sans-serif; font-weight: 400;
